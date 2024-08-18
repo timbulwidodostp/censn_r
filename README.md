@@ -1,6 +1,8 @@
 # censn_r
 Censored skew-normal regression approach with delayed entry Use censn With (In) R Software
 
+https://www.youtube.com/watch?v=P0fmzGaFYzU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
